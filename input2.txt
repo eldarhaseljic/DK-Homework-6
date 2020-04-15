@@ -1,0 +1,2 @@
+foo(a) { print a; }
+foo(4);

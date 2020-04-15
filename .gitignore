@@ -1,0 +1,6 @@
+*.o
+*.tab.c
+*.tab.h
+lex.yy.c
+lang
+test/current

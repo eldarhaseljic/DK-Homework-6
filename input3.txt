@@ -1,0 +1,2 @@
+foo(a,b,c) { print a; print b; print c; }
+foo(1,2,3);

@@ -1,0 +1,9 @@
+foo(a) { print a; }
+foo(5);
+print a;
+
+a=100;
+bar(a) { print a; }
+bar(14);
+
+print a;
